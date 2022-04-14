@@ -15,3 +15,7 @@ some text practice
 2.
 3.
 
+[google][google-link]
+
+[google-link]: https://www.google.com
+
